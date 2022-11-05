@@ -1,0 +1,25 @@
+name: Civils-SkyBlock
+author: Vibers
+version: 1.0.0
+main: prevail.Vibes.civilsskyblock.main.CS
+description: Custom Features for Civils-SkyBlock by Vibers
+
+commands:
+  Mobcoins:
+    aliases: [Mobcoin, Mb]
+    description: mobcoins Base Command
+  customenchant:
+    aliases: [customenchanting, customenchants, enchants, enchant, ce]
+    description: Enchant Your Items
+  sell:
+    aliases: [sellall, s]
+    description: Sell Your Items
+  Skyblock:
+    aliases: [island, is, islands]
+    description: View Island commands and information 
+  island level:
+    aliases: [islevel,ilevel,islandvalue]
+    description: View island level
+  booster:
+    aliases: [boosters, boost, multipliers, multiplier, multi]
+  
